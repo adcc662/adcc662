@@ -7,4 +7,4 @@ use and continue learning.
 
 ## 🛠 Skills
 
-![Logo](https://iconscout.com/icon/mysql-21)
+![Logo](./images/php.png)
