@@ -13,7 +13,7 @@
 
 
 
-## 🛠 Technologies(
+## 🛠 Technologies
 ![My Remote Image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![My Remote Image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![My Remote Image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
@@ -27,4 +27,4 @@
 ![My Remote Image](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
 
 ## 📈Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username={adcc662}&theme={tokyo-night})
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username={Angel David Castillo Castro}&theme={tokyo-night})
