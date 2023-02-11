@@ -27,5 +27,4 @@
 ![My Remote Image](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
 
 ## 📈Activity
-https://github-readme-activity-graph.cyclic.app/graph?username={adcc662}&theme={tokyo-night}
-
+[Link text Here](https://github-readme-activity-graph.cyclic.app/graph?username={adcc662}&theme={tokyo-night})
